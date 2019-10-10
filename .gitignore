@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+VacationPy/api_keys.py
+WeatherPy/api_keys.py
